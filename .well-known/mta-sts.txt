@@ -1,4 +1,5 @@
 version: STSv1
 mode: enforce
-mx: findlay-lefebvre.com
-max_age: 604800
+mx: mail.protonmail.ch
+mx: mailsec.protonmail.ch
+max_age: 2419200
